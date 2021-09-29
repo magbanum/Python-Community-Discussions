@@ -57,4 +57,4 @@ Share your works and projects with the community to showcase your skills and get
 - In description, share more information like short summary, technologies used and links.
 - Take help of previous discussions for the format.
 
-Read our [Code of Coduct](url) to keep our community approachable and respectable.
+Read our [Code of Coduct](https://github.com/magbanum/Python-Community-Discussions/blob/master/CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
