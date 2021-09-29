@@ -21,3 +21,5 @@ Add yourself in the Contributors list using the given format,
 }
 ```
 Keep your tech stack to maximum of 5 technologies.
+
+And then submit the pull request with title ````Add <your-name>```` for example ```Add Shantanu Nighot```.
