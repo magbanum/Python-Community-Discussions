@@ -16,7 +16,7 @@ To start the new discussion go to discussions section of this repository or clic
 Before starting a discussion, visit DISCUSSIONS.md to know more about the types of discussions available. Also Read our [Code of Coduct](https://github.com/magbanum/Python-Community-Discussions/blob/master/CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
 ## Add yourself to Contributors
-Replace <github-username> with your GitHub username in this guide.
+Replace `<github-username>` with your GitHub username in this guide.
 
 ### 1. Add your profile information
 Fork this repository and create a markdown file in [Contributors](https://github.com/magbanum/Python-Community-Discussions/tree/master/Contributors) folder following the convention `<github-username>.md`. Ex.
