@@ -7,17 +7,21 @@ If you want to be a contributor, please go through the [Code of Conduct](https:/
 
 
 ## Add yourself to Contributors
-To add yourself to the contributors, create new file `<your-github-username>.md` for example `magbanum.md` in the [Contributors](Contributors) directory and add your data in following format.
+Replace <github-username> with your GitHub username in this guide.
 
-Strictly follow to the given format for successful pull request.
+### 1. Add your profile information
+Fork this repository and create a markdown file in [Contributors](https://github.com/magbanum/Python-Community-Discussions/tree/master/Contributors) folder following the convention `<github-username>.md`. Ex.
+```
+Contributors/magbanum.md
+```
+Copy the following template into your file, delete the boilerplate data and fill the information with yours.
 ```
 ---
-name: No longer than 28 characters
-github_user:
-designation: No longer than 58 characters
-tech-stack: Not more than 5 technologies
-quote: No longer than 100 characters, avoid using quotes(").
-website: 
+name: FULLNAME-OR-NICKNAME # No longer than 28 characters
+github_user: YOUR-GITHUB-USERNAME
+designation: YOUR-DESIGNATION # No longer than 58 characters
+tech-stack: TECHNOLOGIES-YOU-KNOW # Not more than 5 technologies
+portfolio: YOUR-WEBSITE-OR-GITHUB-PROFILE-LINK
 ---
 ```
 For example:
@@ -25,10 +29,12 @@ For example:
 ---
 name: Shantanu Nighot
 github_user: magbanum
-designation: Python developer
+designation: Python web developer
 tech-stack: Python, Django, MongoDB, HTML & CSS, Git
-quote: Never give up on something that you can't go a day without thinking about.
 website: https://magbanum.live
 ---
 ```
-And then submit the pull request with title ````Add <your-name>```` for example ```Add Shantanu Nighot```.
+*Do not use special characters in the template above.*
+
+### 2. Lastly, submit your Pull Request
+Go through the checklist on the pull request template to guarantee your submission is valid. Our team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section.
