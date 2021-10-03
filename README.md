@@ -48,6 +48,8 @@ website: https://magbanum.live
 ### 2. Lastly, submit your Pull Request
 Go through the checklist on the pull request template to guarantee your submission is valid. Our team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section.
 
+**Note:** Name your Pull Request as `Add YOUR-NAME` for example `Add Shantanu Nighot`.
+
 ### Show some ❤ by starring the repository.
 
 Author: [Shantanu Nighot](https://github.com/magbanum)
