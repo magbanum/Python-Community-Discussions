@@ -4,6 +4,11 @@
 - [Python Tutorials | Real Python](https://realpython.com/)
 
 ## Videos & Channels
+- [Python & Django | Very Acadamy](https://www.youtube.com/c/veryacademy)
+- [Python | FreeCodeCamp](https://www.youtube.com/c/Freecodecamp/search?query=python)
+- [Python Miscellaneous | Tech With Tim](https://www.youtube.com/c/TechWithTim/featured)
+- [Django | CODE WITH TOMI](https://www.youtube.com/c/CodeWithTomi)
+
 
 ## Free courses:
 
