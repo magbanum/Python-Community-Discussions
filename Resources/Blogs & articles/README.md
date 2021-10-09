@@ -2,11 +2,11 @@
 
 - [Python Tutorials](https://realpython.com/) | Real Python
 - [All the Python tutorials](https://flaviocopes.com/tags/python/) | Flavio Copes
+- [Python Guide for Absolute Beginners](https://medium.com/tinkerhub/python-for-absolute-beginners-c27ce8faa2a4) | Tinkerhub
+- [Practical Guide For Beginners- How to learn to code in python](https://medium.com/tinkerhub/how-to-learn-to-code-a-practical-guide-for-beginners-d88f90953af8) | Tinkerhub
   
 <h1 align=right >Articles 📃</h1>
 
 - [Python 101! Introduction to Python](https://dev.to/phylis/python-101-introduction-to-python-2eh4) | Phylis Jepchumba
 - [Web Scraping with Python For Your Data Science project!](https://www.analyticsvidhya.com/blog/2021/06/perform-web-scraping-with-python/) | Analytics Vidhya
-
-
-
+- [Python Installation guide](https://pythongeeks.org/python-installation-guide/) | Python Geeks
