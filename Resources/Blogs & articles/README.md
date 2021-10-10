@@ -8,5 +8,6 @@
 <h1 align=right >Articles 📃</h1>
 
 - [Python 101! Introduction to Python](https://dev.to/phylis/python-101-introduction-to-python-2eh4) | Phylis Jepchumba
+- [A python guide/cheat-sheet](https://gist.github.com/asaah18/5dfda79cbddf9ef6a5b74587dfb9e706) | asaah18
 - [Web Scraping with Python For Your Data Science project!](https://www.analyticsvidhya.com/blog/2021/06/perform-web-scraping-with-python/) | Analytics Vidhya
 - [Python Installation guide](https://pythongeeks.org/python-installation-guide/) | Python Geeks
