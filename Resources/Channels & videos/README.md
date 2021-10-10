@@ -8,3 +8,4 @@
 
 <h1 align=right>Videos</h1>
 
+- [Python Treemap Visualization Tutorial - Plot A Treemap Using Python](https://youtu.be/13-_BkgUveY) | The Click Reader
