@@ -4,6 +4,15 @@
 - [All the Python tutorials](https://flaviocopes.com/tags/python/) | Flavio Copes
 - [Python Guide for Absolute Beginners](https://medium.com/tinkerhub/python-for-absolute-beginners-c27ce8faa2a4) | Tinkerhub
 - [Practical Guide For Beginners- How to learn to code in python](https://medium.com/tinkerhub/how-to-learn-to-code-a-practical-guide-for-beginners-d88f90953af8) | Tinkerhub
+- [The go-to Python blog](https://planetpython.org/) | Planet Python
+- [A comprehensive resource by multiple Python bloggers](https://www.fullstackpython.com/blog.html) | Full Stack Python
+- [A Python blog with undeniable charm](https://www.blog.pythonlibrary.org/) | Mouse vs. Python
+- [Run by a prominent Python blogger](https://doughellmann.com/posts/) | Doug Hellmann
+- [The best Python bloggers come together](http://www.pybloggers.com/) | PyBloggers
+- [A Python blog in audio form](https://talkpython.fm/episodes/all) | TalkPython
+- [Fresh Python-related content provided by the creators themselves](https://pyfound.blogspot.com/) | Python Software Foundation
+- [A Python programming blog for the forward-thinking crowd](https://blog.finxter.com/blog/) | Finxter
+- [A Python programming blog offering practical guides and solutions](https://thepythonguru.com/blog/) | The Python Guru
   
 <h1 align=right >Articles 📃</h1>
 
