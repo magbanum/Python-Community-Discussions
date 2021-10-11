@@ -1,4 +1,5 @@
-# Python-Community-Discussions
+<h1 align=center>💬 Python-Community-Discussions 🗨</h1>
+
 Introducing the open-source python community for the developers and by the developers. This is the open-source repository where anyone willing to contribute is always welcomed. Check out [CONTRIBUTING.md](https://github.com/magbanum/Python-Community-Discussions/blob/master/CONTRIBUTING.md) for more information.
 
 ## What's in it for you?
@@ -8,6 +9,12 @@ Introducing the open-source python community for the developers and by the devel
 - Showcase you previous works as a motivation for others and get feedback from experts.
 - Resources to get you started and sharpening the skills.
 - And lot of things coming from you.
+
+<h3 align=center>
+  
+  ➡Check out useful python [resources](https://magbanum.live/Python-Community-Discussions/Resources/) by the community.⬅
+
+</h3>
 
 We carry out different types of [discussions](https://github.com/magbanum/Python-Community-Discussions/discussions) here to help everyone learn new things, get their questions answered and showcase their works. We are just starting out so you can also help us improve content of the repository just like this README file.
 
