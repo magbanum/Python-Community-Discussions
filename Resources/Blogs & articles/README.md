@@ -22,4 +22,5 @@
 
 - [12 Resource to Learn Python for Beginners](https://geekflare.com/python-learning-resources/) | GEEKFLARE
 - [Python Installation guide](https://pythongeeks.org/python-installation-guide/) | Python Geeks
-
+- [Web Scraping with BS4 along with Pushbullet API](https://github.com/styles3544/WebScraping) | styles3544
+- [Web Scraping using Python](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/) | freeCodeCamp
