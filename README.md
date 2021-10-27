@@ -1,5 +1,11 @@
 <h1 align=center>💬 Python-Community-Discussions 🗨</h1>
 
+<p align="center">
+	<a href="https://github.com/magbanum/Python-Community-Discussions/actions/workflows/tests-monitor-links.yml">
+        	<img src="https://github.com/magbanum/Python-Community-Discussions/actions/workflows/tests-monitor-links.yml/badge.svg?branch=master" alt="Link Monitoring State">
+	</a>
+</p>
+
 Introducing the open-source python community for the developers and by the developers. This is the open-source repository where anyone willing to contribute is always welcomed. Check out [CONTRIBUTING.md](https://github.com/magbanum/Python-Community-Discussions/blob/master/CONTRIBUTING.md) for more information.
 
 ## What's in it for you?
