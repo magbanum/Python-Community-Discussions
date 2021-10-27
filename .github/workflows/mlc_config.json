@@ -1,0 +1,13 @@
+{
+    "ignorePatterns": [],
+    "replacementPatterns": [
+        {
+            "pattern": "^/",
+            "replacement": "/github/workspace/"
+        },
+        {
+            "pattern": "^./",
+            "replacement": "/github/workspace/"
+        }
+    ]
+}
